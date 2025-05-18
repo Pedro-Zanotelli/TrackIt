@@ -10,6 +10,11 @@ TrackIt é uma aplicação web para o gerenciamento de hábitos diários, constr
 
 ---
 
+## Acesso ao Projeto
+[Clique aqui para acessar o deploy](https://track-it-pi-seven.vercel.app/)
+
+---
+
 ## Funcionalidades
 
 - **Cadastro e Login**: Criação de conta com nome, e-mail, senha e foto; autenticação via token.  
