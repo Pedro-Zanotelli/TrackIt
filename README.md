@@ -65,6 +65,7 @@ trackit/
 │   ├── index.js
 │   └── reset.css
 └── package.json
+```
 
 ## Como Executar o Projeto
 
