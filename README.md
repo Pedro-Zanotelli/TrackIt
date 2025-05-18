@@ -10,20 +10,6 @@ TrackIt é uma aplicação web para o gerenciamento de hábitos diários, constr
 
 ---
 
-## 📑 Sumário
-
-- [Funcionalidades](#funcionalidades)  
-- [Tecnologias](#tecnologias)  
-- [Estrutura de Pastas](#estrutura-de-pastas)  
-- [Componentes Principais](#componentes-principais)  
-- [Context API](#context-api)  
-- [Integração com API](#integração-com-api)  
-- [Instalação e Uso](#instalação-e-uso)  
-- [Scripts Disponíveis](#scripts-disponíveis)  
-- [Autor](#autor)  
-
----
-
 ## Funcionalidades
 
 - **Cadastro e Login**: Criação de conta com nome, e-mail, senha e foto; autenticação via token.  
