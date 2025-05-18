@@ -62,7 +62,7 @@ export default function CadastroPage() {
                 />
                 <Input 
                     type="url"
-                    placeholder="foto"
+                    placeholder="foto (insira um link)"
                     disabled={loading}
                     required
                     value={image}
